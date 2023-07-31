@@ -17,9 +17,6 @@ h1{
     font-size:20px;
  }
 
- .experience{
- }
-
  header, body{
     font-family:calibri, Verdana, Geneva, Tahoma, sans-serif;
     font-size:18px;
@@ -31,4 +28,31 @@ h1{
 
  #copyright{
    text-align:center;
+ }
+
+ a:link {
+   text-decoration: none;
+ }
+ 
+ a:visited {
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   text-decoration: underline;
+ }
+ 
+ a:active {
+   text-decoration: underline;
+ }
+
+ #about p{
+   padding: 10px 70px 10px 70px;
+ }
+
+ #about{
+ }
+ 
+ /*html{
+   text-transform:lowercase;
  }
