@@ -21,7 +21,7 @@ h1{
  }
 
  header, body{
-    font-family:calibri;
+    font-family:calibri, Verdana, Geneva, Tahoma, sans-serif;
     font-size:18px;
  }
 
