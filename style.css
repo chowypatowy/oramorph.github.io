@@ -1,6 +1,10 @@
 h1{
-    font-size:282x;
+    font-size:28px;
     text-transform:uppercase;
+ }
+
+ nav{
+   word-spacing: 10px;
  }
 
  #position{
@@ -50,8 +54,12 @@ h1{
    padding: 10px 70px 10px 70px;
  }
 
- #about{
- }
+footer{
+   position:fixed;
+   left:10px;
+   bottom:0;
+   width:100%;
+}
  
  /*html{
    text-transform:lowercase;
