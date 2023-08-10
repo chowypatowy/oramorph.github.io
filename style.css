@@ -29,6 +29,8 @@ h1{
 
  header{
    text-align:center;
+   background-color:#eeeeee;
+   padding: 2px 0px;
  }
 
  #copyright{
@@ -63,6 +65,7 @@ footer{
    left:10px;
    bottom:0;
    width:100%;
+   background-color:#eeeeee;
 }
  
  /*html{
